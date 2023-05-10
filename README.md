@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on **Astro Discord Bot**
+- 🔭 I’m currently working on **Astrooni Discord Bot**
 - 🌱 I’m currently learning **C++** 
 - 👯 I’m looking to collaborate on **Anything**
 - 🤔 I’m looking for help with **Making Friends**
